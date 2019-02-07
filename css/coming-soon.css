@@ -55,7 +55,7 @@ video {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #cd9557;
+  background-color: #dd653c;
   opacity: 0.7;
   z-index: 1;
 }
@@ -200,13 +200,13 @@ video {
 }
 
 .btn-secondary {
-  background-color: #cd9557;
-  border-color: #cd9557;
+  background-color: #dd653c;
+  border-color: #dd653c;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
-  background-color: #ba7c37 !important;
-  border-color: #ba7c37 !important;
+  background-color: #c44b22 !important;
+  border-color: #c44b22 !important;
 }
 
 .input {
